@@ -1,1 +1,1 @@
-# Dise-o-y-nuevos-medios
+# Diseno-y-nuevos-medios
