@@ -1,66 +1,15 @@
-### Diseño y Nuevos Medios → Clase 02 → 16/03/2021
-
-# HTML5 + CSS3 + p5.js
-
-### Teoría
-
-Ya pudimos reconocer la diferencia entre los lenguajes de descripción y el lenguaje de programación. Para comenzar a profundizar en un lenguaje de programación aprovechamos [p5.js](https://p5js.org/es/):
-
-> ¡**p5.js** es una biblioteca de JavaScript para la programación creativa, que busca hacer que programar sea accesible e inclusivo para artistas, diseñadores, educadores, principiantes y cualquier otra persona! **p5.js** es gratuito y de código abierto porque creemos que el software y las herramientas para aprenderlo deben ser accesibles para todos.
-
-Esta biblioteca fue creada por [Lauren McCarthy](http://lauren-mccarthy.com/) y es desarrollada por una comunidad de colaboradores, con apoyo de [Processing Foundation](https://processingfoundation.org/) y [NYU ITP](https://forms.tisch.nyu.edu/page/s/itp-landing). Entre los colaboradores hay 2 chilenos, que se han encargado de la traducción de referencias, tutoriales y [un libro](https://processingfoundation.press/product/introduccion-a-p5-js/) al castellano; ellos son: [Guillermo Montecinos](https://twitter.com/guillermolooped) y [Aarón Montoya-Moraga](https://twitter.com/montoyamoraga).
-
-[p5.js](https://p5js.org/es/) es una reinterpretación de [Processing](https://processing.org/) para la web. Consideremos que cuando se trabaja en Processing cada *sketch* tiene su `void setup()` y `void draw()`. Hay un `setup` que se ejecuta una única vez, en la partida. Hay un `draw` que por defecto se ejecuta una y otra vez. Ahora, cambiemos el `void` de [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) por el `function` de [JavaScript](https://es.wikipedia.org/wiki/JavaScript), y tenemos:
-
-```
-function setup(){
-  //colocas acá lo que se ejecuta una única vez
-}
-
-function draw(){
-  //colocas acá lo que necesitas dibujar una y otra vez
-}
-```
-
-Tal como Processing, [p5.js](https://p5js.org/es/) ofrece
-
-> un conjunto completo de funcionalidades para dibujar. Sin embargo, no estás limitado solo a dibujar en tu lienzo. Puedes tomar toda la página del navegador como tu bosquejo, incluyendo los objetos HTML5 para texto, entrada, video, cámara web y sonido.
-
-Aquí conviene agregar una nota sobre el [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM): **A través del DOM, los programas escritos en JavaScript pueden acceder y modificar el contenido, estructura y estilo de la representación de la página web**.
-
-Con el DOM podemos manipular una página así como cuando manipulamos una imagen con Photoshop. Si capturaste una imagen con 3 elementos y agregas un cuarto *photoshopénadolo*, en ningún caso modificas la realidad capturada, pero todos podrán ver una imagen con 4 elementos. 
-
-Estirando la analogía: Podríamos encontrar inconcruencias en los despliegue de (1) código fuente de la página y (2) elementos de la página. Esto es así porque en el código fuente de la página está lo capturado originalmente, mientras que en la vista de elementos de la misma página está lo *photoshopeado*, y esto último coincide con lo que tenemos a la vista.
-
-- - - - - - - - - - - - -
-
-### Práctica
-
-Para familiarizanos con el trabajo con el DOM, podemos aprovechar los documentos contenidos en [esta carpeta](https://github.com/profesorfaco/dno037-2022/blob/main/clase-02). Pero antes de aprovecharlos, conviene:
-
-- revisar el [método `querySelector`](https://developer.mozilla.org/es/docs/Web/API/Element/querySelector);
-
-- revisar el [constructor `Date()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Date);
-
-- revisar la [propiedad `Element.classList`](https://developer.mozilla.org/es/docs/Web/API/Element/classList);
-
-- tener a mano la [página de referencias de **p5.js**](https://p5js.org/es/reference/); y
-
-- contar con una extensión que permita ver JSON de manera más ordenada en su navegador web. Para Chrome: [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/mhimpmpmffogbmmkmajibklelopddmjf?hl=es) o [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=es). Para Firefox: [JSON Lite](https://addons.mozilla.org/es/firefox/addon/json-lite/) o [Basic JSON Formatter](https://addons.mozilla.org/es/firefox/addon/basic-json-formatter/).
-
-**Tal como en la clase anterior, y en las que sigan: Es necesario que descarguen lo contenido en la carpeta de esta clase, y hagan algunos ajustes para cumplir con la primera parte del ejercicio; el ejercicio se completa cuando cada estudiante publica, [con GitHub Pages](https://docs.github.com/es/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), [su versión ajustada de un sitio web](https://profesorfaco.github.io/dno037-2022/clase-02).**
-
-El ejercicio completo puede ser evaluado con:
-
-- **0 punto** → no logrado.
-
-- **1 punto** → logrado.
-
-- **2 puntos** → logrado con aporte destacado.
-
-El ejercicio incompleto es evaluado con 0 punto.
-
-- - - - - - - 
-
-###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno037-2022/tree/main/clase-01) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2022/tree/main/clase-03)
-
+![album-2](https://user-images.githubusercontent.com/101121746/160723214-b6798e2a-d271-4f23-b2b6-4744f78be1ed.jpg)
+![album-3](https://user-images.githubusercontent.com/101121746/160723216-3d24cc7c-a600-4118-873d-290e82f73332.jpg)
+![album-4](https://user-images.githubusercontent.com/101121746/160723218-14a6a8c2-c476-4f3b-bd5b-c13979a6be6d.jpg)
+![album-5](https://user-images.githubusercontent.com/101121746/160723219-58c8dccb-d4a7-485a-994c-3d4991b16416.jpg)
+![album-6](https://user-images.githubusercontent.com/101121746/160723221-6c0797e7-a592-47bb-abe0-1b9f500e369a.jpg)
+![album-7](https://user-images.githubusercontent.com/101121746/160723223-6b334b8e-153f-467d-93e1-ccc7cede7c45.jpg)
+![album-8](https://user-images.githubusercontent.com/101121746/160723225-cc8b239c-29cb-4038-b6c5-d86710446dce.jpg)
+![album-9](https://user-images.githubusercontent.com/101121746/160723227-da9ca880-1e00-4c10-aaae-42af208ebb80.jpg)
+![album-10](https://user-images.githubusercontent.com/101121746/160723228-c36c5aa2-7e8a-4dd6-ad01-9c4921ee5e62.jpg)
+![album-11](https://user-images.githubusercontent.com/101121746/160723230-9d264c8d-9cc9-497b-930c-47fa4d8b08bb.jpg)
+![album-12](https://user-images.githubusercontent.com/101121746/160723233-5cf8bfd1-1a94-45db-bf5d-c5dd75be72dd.jpg)
+![album-13](https://user-images.githubusercontent.com/101121746/160723239-d68e4a97-e109-4fef-9d4e-9e0e32a41147.jpg)
+![album-14](https://user-images.githubusercontent.com/101121746/160723240-55d2e444-dee1-4e1b-8fe5-6eb8114ebd08.jpg)
+![album-0](https://user-images.githubusercontent.com/101121746/160723243-4eccacea-0af1-4e8c-848a-cacb3fbe66f3.jpg)
+![album-1](https://user-images.githubusercontent.com/101121746/160723247-afeec9bb-3317-4126-8671-f743ceb83c5e.jpg)
