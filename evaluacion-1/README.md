@@ -13,3 +13,11 @@ Emilia Ferrari, 20 años, estudiante de diseño,desde computador Mac.
 ![CoverArt (2)](https://user-images.githubusercontent.com/101121746/160851578-221ef527-2da4-4c7d-ad78-89a146df3a37.jpeg)
 
 Florencia Urrea, 23 años, estudiante de diseño, desde computador Windows.
+
+![Coverart (5)](https://user-images.githubusercontent.com/101121746/160876514-fbe77e74-9ae4-421a-8664-1d11861b4bae.jpeg)
+
+Renate Stange, 23 años, estudiante de cocina, desde computador Windows.
+
+![CoverArt (6)](https://user-images.githubusercontent.com/101121746/160876524-4a1cccc6-8da7-4867-82bd-a5594b018d3e.jpeg)
+
+Diana Castro, 22 años, estudiante de medicina, desde computador Windows.
