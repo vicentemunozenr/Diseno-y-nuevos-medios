@@ -9,3 +9,7 @@ Augusta Vidaurre, 23 años, desde computador Windows.
 ![CoverArt (3)](https://user-images.githubusercontent.com/101121746/160851166-4ef5c220-084a-4e1d-bb09-2ebd413ac64e.jpeg)
 
 Emilia Ferrari, 20 años, desde computador Mac.
+
+![CoverArt (2)](https://user-images.githubusercontent.com/101121746/160851578-221ef527-2da4-4c7d-ad78-89a146df3a37.jpeg)
+
+Florencia Urrea, 23 años, desde computador Windows.
