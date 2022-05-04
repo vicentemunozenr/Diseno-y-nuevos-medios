@@ -18,7 +18,7 @@
                 </section>
             </main>
             <footer>
-                <p><a href="https://github.com/vicentemunozenr">Vicente Muñoz</a> <a href="https://github.com/profesorfaco/dno037-2022">DNO037</a></p>
+                <p><a href="#">Nombre Apellido</a> <a href="#">DNO037</a></p>
             </footer>
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js" integrity="sha512-rKFvwjvE4liWPlFnvH4ZhRDfNZ9FOpdkD/BU5gAIA3VS3vOQrQ5BjKgbO3kxebKhHdHcNUHLqxQYSoxee9UwgA==" crossorigin="anonymous"></script>
@@ -36,9 +36,9 @@
                         document.querySelector('section').innerHTML = '<h1>' + peliculas[n].name + '</h1><h4>' + peliculas[n].director + ' (' + peliculas[n].year + ')</h4><img src="images/' + peliculas[n].pic_lg + '"><p>' + peliculas[n].description + '</p><h3>Trailer</h3><p>Puedes ver algunas escenas de la película en <a href="' + peliculas[n].trailer + '" target="_blank">Youtube</a><p>';
 
                     } else {
-                        document.querySelector('section').innerHTML = '<h1>Algo salió mal. Pero acá está Alfred para ayudarte</h1><h4>Por favor, vuelve a escoger cualquiera de las <a href="peliculas.html">películas</a></h4>';
+                        document.querySelector('section').innerHTML = '<h1>Algo salió mal. Pero R2D2 lo reparará</h1><h4>Por favor, vuelve a escoger cualquiera de las <a href="peliculas.html">películas</a></h4>';
                         document.body.style.backgroundPosition = 'bottom right';
-                        document.body.style.backgroundImage = 'url("images/error-amable.png")';
+                        document.body.style.backgroundImage = 'url("images/error-amable.jpg")';
                         document.body.style.backgroundRepeat = 'no-repeat';
                         document.body.style.backgroundSize = 'auto 90%';
                     }
