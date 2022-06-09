@@ -46,7 +46,8 @@
 #### ANTECEDENTE 4
 
 - **Nombre:** Tato
-
+- 
+- ![image](https://user-images.githubusercontent.com/101121746/172758285-1ac57395-dc6a-49b7-82ba-6ce22e34b02b.png)
 
 - **Qué:** Sitio de gastronomía
 
@@ -62,6 +63,7 @@
 
 - **Nombre:** Design Within Reach
 
+- ![image](https://user-images.githubusercontent.com/101121746/172758412-0b01d2c5-b297-4133-ac41-67274a30ab64.png)
 
 - **Qué:** Tienda online de diseño de interiores
 
@@ -78,10 +80,11 @@
 
 - **Qué:**  Página de diseño de interiores. 
 
+-![image](https://user-images.githubusercontent.com/101121746/172758583-33994e64-623a-4a36-b018-4d54cc160616.png)
 
 - **Fuente:** https://www.neseahydra.com/en/
 - **Aspectos positivos:** 	
-- El orden de la galería tiene un muy buen despliegue de las foto.
+- El orden de la galería tiene una muy buena composición.
 - La galería no se demora en cargar.
 - **Aspectos negativos:** 
 - Al seleccionar las fotos de la galería no se entrega más información.
