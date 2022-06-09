@@ -2,20 +2,20 @@
 - Poder llevar el trabajo de una artista a más público con un catalogo web.
 ## Para quién es
 **Extremo 1:**
-Cuadrante 1: 
-Cuadrante 2: 
-Cuadrante 3: 
-Cuadrante 4: 
+- Primero:
+- Segundo:
+- Tercero:
+- Cuarto:
 **Promedio:**
-Cuadrante 1: 
-Cuadrante 2: 
-- Cuadrante 3: 
-- Cuadrante 4: 
+- Primero:
+- Segundo:
+- Tercero:
+- Cuarto:
 **Extremo 2:**
-- Cuadrante 1: 
-- Cuadrante 2: 
-- Cuadrante 3: 
-- Cuadrante 4: 
+- Primero:
+- Segundo:
+- Tercero:
+- Cuarto: 
 ## ANTECEDENTES
 
 #### ANTECEDENTE 1
