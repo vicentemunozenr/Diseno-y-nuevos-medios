@@ -1,53 +1,66 @@
-### Diseño y Nuevos Medios → Clase 14 → 08/06/2022
+#### ANTECEDENTE 1
 
-# Diseño y desarrollo
-
-Hoy comienzan a trabajar en el **diseño y desarrollo, autónomo, de su primer sitio web profesional o prototipo avanzado de aplicación web**, atendiendo a una de las siguientes opciones: 
-
-- Sitio web profesional, debe implementarse en línea con un dominio propio. 
-
-- Prototipo avanzado de aplicación web, debe implementarse en línea con dominio ajeno y acceso restringido con clave.
-
-Antes de seguir, conviene leer: 
-
-- [Configurar GitHub Pages para usar dominios.cl](https://ggerena.medium.com/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
-
-- [Reglamentación para el funcionamiento del Registro de Nombres del Dominio .CL](https://www.nic.cl/normativa/reglamentacion.html)
-
-Y conviene ver parte de estos videos: 
-
-- [Hosteando tu sitio en Github Pages](https://www.youtube.com/watch?v=wyRfN5oLzx4&t=155s)
-
-- [Hosting gratuito con GitHub Pages y dominio personalizado](https://www.youtube.com/watch?v=nbUR1jzVI5g&t=328s)
-
-**El sitio web profesional o prototipo avanzado de aplicación web puede ser un autoencargo o un encargo. Generalmente el autoencargo es un portafolio de diseño, y el encargo atiende las necesidades comunicacionales de una empresa**.
-
-:rotating_light:	**RECOMENDACIÓN IMPORTANTE**  :rotating_light:	Pueden enfrentar el (auto)encargo de tienda en línea como vitrina de productos o como prototipo avanzado de aplicación web; para resolverlo como tienda en línea prefieran otra instancia, distinta de este trabajo. En otra instancia usted podrá explorar y aprovechar las herramientas que apoyan a éstas tiendas con sistemas de catálogo, transacción, distribución, etc.
-
-- - - - - - - - - - 
-
-#### Ejercicio
-
-Sólo tendrá que usar el **`README.md` de un repositorio final. Allí debe publicar sus respuestas a las siguientes preguntas**: 
-
-- **¿Para qué es esta propuesta? → objetivo general** → describa, con una frase que comience con un verbo, el beneficio práctico que aportará el resultado de su trabajo.
-
-- **¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio** → describa a 2 usuarias/os ubicadas/os en los extremos de lo menos probable y 1 en lo más probable. Para cada descripción considere los 4 cuadrantes de la [proto-persona](https://uxmag.com/articles/using-proto-personas-for-executive-alignment) y parte de estos [*templates* de persona y escenario](https://github.com/profesorfaco/dno037-2022/blob/main/clase-14/fragmento-sazerac-book.pdf).
-
-- **¿Qué existe que es similar a la propuesta? → antecedentes** → seleccione y describa 6 sitios o aplicaciones web. Se recomienda buscarlos en https://www.awwwards.com/websites/bootstrap/, https://www.instagram.com/webuistylist/ y https://www.instagram.com/web.inspirations/. Se recomienda replicar la [ficha de clasificación de antecedentes de DSUC (p.80)](http://www.dsuc.cl/pdf/Creando-valor-a-traves-del-Diseno-de-Servicios-DSUC.pdf) para presentarlos.
-
-- **¿Qué existe que puede inspirar la propuesta? → referentes** → prepare un moodboard con elementos visuales, distintos de sitios y aplicaciones web, que puedan aportar novedad a su diseño. Ej: https://create.vista.com/es/templates/mood-board/, https://www.canva.com/es_mx/crear/mood-boards/, https://www.freepik.com/blog/es/mood-boards-consejos-trucos-crearlos/, https://www.adobe.com/es/express/create/mood-board
-
-Para sacarle provecho al **uso de `README.md`**, apóyense en:
-
-- https://devhints.io/markdown
-
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+- **Nombre:** Art Gallery
 
 
+- **Qué:** Sitio de arte que muestra distintos páginas que sirven para desplegar las distintas opciones que puede ofrecer el artista. 
 
-- - - - - - - 
+- **Fuente:** https://demo.curlythemes.com/art-gallery-wp/
+- **Aspectos positivos:** 	
+- En la página de inicio, la manera en que se muestran "Events & Programs" lo concidero útil para lo que busco, ya que serviría como catalogo que se pueda actualizar mediante una base de datos.
+- Al seleccionar un producto en shop, el scroll solo mueve la parte izquierda, de esta manera se desplazan las imágenes del producto pero la descripción se mantiene.
+- Gráfica sobria que logra dar el aspecto de una galería de arte, logrando así que lo destacado sea el arte.
 
-###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno037-2022/tree/main/clase-13) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2022/tree/main/clase-15)
+- **Aspectos negativos:** 
+- Demasiada información distinta en la página de inicio, asiendo confuso saber exactamente que está viendo.
+
+	
+Nombre: Kvell
+Imágenes:
+Descripción: Catalogo de diseño de interiores.
+Fuente: https://kvellhome.com/
+Aspectos positivos: 
+	- El lookbook de cada producto es muy satisfactorio visualmente y muy completo.
+Aspectos negativos: 
+	- Es muy confusa la navegación por el sitio.
+
+
+Nombre:Violet Feredo
+Imágenes:
+Descripción: Tienda online de maquillaje que separa los productos en tres tipos.
+Fuente: http://www.violet-feredo.com/en/
+Aspectos positivos: 
+	- Menú muy dinámico, que muestra exactamente que tipos de producto ofrece.
+Aspectos negativos: 
+	- Una vez seleccionada una categoría en el menú, la siguiente página que se abre se siente completamente ajena y sin coherencia.
+
+
+Nombre:Tato
+Imágenes:
+Descripción: Sitio de gastronomía 
+Fuente: https://www.aromialimentari.it/fabbirca-aromi-alimentari/gli-estratti/
+Aspectos positivos: 
+	- La página de inicio solo muestra las categorías que se pueden elegir, haciendo una navegación guiada y fácil.
+	- Al seleccionar la categoría, el cambio de página mantiene de manera muy coherente con el lenguaje visual logrando una buena comunicación. 
+Aspectos negativos:
+	- No es intuitivo la manera en que se volver al menú.
+
+Nombre: Design Within Reach
+Imágenes: 
+Descripción: Tienda online de diseño de interiores
+Fuente :https://www.dwr.com/
+Aspectos positivos: 
+	- Scroll Horizontal que muesta la disponibilidad de los productos.
+Aspectos negativos:
+	- Al bajar y volver a subir, vuelve a aparecer la barra de la parte superior de inmediato, tapando gran parte de la pantalla.
+
+Nombre: Nesea
+Imágenes:
+Descripción: Página de diseño de interiores. 
+Fuente: https://www.neseahydra.com/en/
+Aspectos positivos:
+	- El orden de la galería tiene un muy buen despliegue de las foto.
+	- La galería no se demora en cargar.
+Aspectos negativos:
+	- Al seleccionar las fotos de la galería no se entrega más información.
+![image](https://user-images.githubusercontent.com/101121746/172756303-209a48cd-271e-478a-94bc-377e174bb110.png)
