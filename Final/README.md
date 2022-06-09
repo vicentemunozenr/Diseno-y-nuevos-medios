@@ -109,3 +109,6 @@
 - **Aspectos negativos:** 
 - Al seleccionar las fotos de la galería no se entrega más información.
 
+## Referentes 
+- ![moodboard_Mesa de trabajo 1](https://user-images.githubusercontent.com/101121746/172765437-db090d77-eea8-4225-9220-8d1935992f83.png)
+
