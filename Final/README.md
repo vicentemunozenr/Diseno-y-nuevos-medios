@@ -7,37 +7,55 @@
 
 - **Fuente:** https://demo.curlythemes.com/art-gallery-wp/
 - **Aspectos positivos:** 	
-- En la página de inicio, la manera en que se muestran "Events & Programs" lo concidero útil para lo que busco, ya que serviría como catalogo que se pueda actualizar mediante una base de datos.
-- Al seleccionar un producto en shop, el scroll solo mueve la parte izquierda, de esta manera se desplazan las imágenes del producto pero la descripción se mantiene.
-- Gráfica sobria que logra dar el aspecto de una galería de arte, logrando así que lo destacado sea el arte.
+ En la página de inicio, la manera en que se muestran "Events & Programs" lo concidero útil para lo que busco, ya que serviría como catalogo que se pueda actualizar mediante una base de datos.
+ Al seleccionar un producto en shop, el scroll solo mueve la parte izquierda, de esta manera se desplazan las imágenes del producto pero la descripción se mantiene.
+ Gráfica sobria que logra dar el aspecto de una galería de arte, logrando así que lo destacado sea el arte.
 
 - **Aspectos negativos:** 
 - Demasiada información distinta en la página de inicio, asiendo confuso saber exactamente que está viendo.
 
-	
-Nombre: Kvell
-Imágenes:
-Descripción: Catalogo de diseño de interiores.
-Fuente: https://kvellhome.com/
-Aspectos positivos: 
-	- El lookbook de cada producto es muy satisfactorio visualmente y muy completo.
-Aspectos negativos: 
-	- Es muy confusa la navegación por el sitio.
+#### ANTECEDENTE 2
+
+- **Nombre:** Kvell
 
 
-Nombre:Violet Feredo
-Imágenes:
-Descripción: Tienda online de maquillaje que separa los productos en tres tipos.
-Fuente: http://www.violet-feredo.com/en/
-Aspectos positivos: 
-	- Menú muy dinámico, que muestra exactamente que tipos de producto ofrece.
-Aspectos negativos: 
-	- Una vez seleccionada una categoría en el menú, la siguiente página que se abre se siente completamente ajena y sin coherencia.
+- **Qué:** Catalogo de diseño de interiores.
 
+- **Fuente:** https://kvellhome.com/
+- **Aspectos positivos:** 	
+- El lookbook de cada producto es muy satisfactorio visualmente y muy completo.
+- **Aspectos negativos:** 
+- Es muy confusa la navegación por el sitio.
+
+#### ANTECEDENTE 3
+
+- **Nombre:** Violet Feredo
+
+
+- **Qué:** Tienda online de maquillaje que separa los productos en tres tipos.
+
+- **Fuente:** http://www.violet-feredo.com/en/
+- **Aspectos positivos:** 	
+- Menú muy dinámico, que muestra exactamente que tipos de producto ofrece.
+- **Aspectos negativos:** 
+- Una vez seleccionada una categoría en el menú, la siguiente página que se abre se siente completamente ajena y sin coherencia.
+
+#### ANTECEDENTE 3
+
+- **Nombre:** Violet Feredo
+
+
+- **Qué:** Tienda online de maquillaje que separa los productos en tres tipos.
+
+- **Fuente:** http://www.violet-feredo.com/en/
+- **Aspectos positivos:** 	
+- Menú muy dinámico, que muestra exactamente que tipos de producto ofrece.
+- **Aspectos negativos:** 
+- Una vez seleccionada una categoría en el menú, la siguiente página que se abre se siente completamente ajena y sin coherencia.
 
 Nombre:Tato
 Imágenes:
-Descripción: Sitio de gastronomía 
+Descripción: 
 Fuente: https://www.aromialimentari.it/fabbirca-aromi-alimentari/gli-estratti/
 Aspectos positivos: 
 	- La página de inicio solo muestra las categorías que se pueden elegir, haciendo una navegación guiada y fácil.
