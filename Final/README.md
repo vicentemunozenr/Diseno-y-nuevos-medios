@@ -1,9 +1,12 @@
-## Para Quién
-#Extremo 1:
-
-#Promedio:
-
-#Extremo 2:
+## Para qué es 
+- Poder llevar el trabajo de una artista a más público con un catalogo web.
+## Para quién es
+# Extremo 1:
+- 
+**Promedio:**
+- 
+**Extremo 2:**
+- 
 ## ANTECEDENTES
 
 #### ANTECEDENTE 1
