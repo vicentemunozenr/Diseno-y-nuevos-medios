@@ -1,17 +1,19 @@
 ## Para qué es 
 - Poder llevar el trabajo de una artista a más público con un catalogo web.
 ## Para quién es
-**Extremo 1:**
+- **Extremo 1:**
 - Primero:
 - Segundo:
 - Tercero:
 - Cuarto:
-**Promedio:**
+
+- **Promedio:**
 - Primero:
 - Segundo:
 - Tercero:
 - Cuarto:
-**Extremo 2:**
+
+- **Extremo 2:**
 - Primero:
 - Segundo:
 - Tercero:
