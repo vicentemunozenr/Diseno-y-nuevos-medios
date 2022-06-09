@@ -1,73 +1,53 @@
-### Diseño y Nuevos Medios → Clase 01 → 09/03/2021
+### Diseño y Nuevos Medios → Clase 14 → 08/06/2022
 
-# HTML5 + CSS3 + p5.js
+# Diseño y desarrollo
 
-### Teoría
+Hoy comienzan a trabajar en el **diseño y desarrollo, autónomo, de su primer sitio web profesional o prototipo avanzado de aplicación web**, atendiendo a una de las siguientes opciones: 
 
-Escribir "código fuente" implica describir y/o programar. 
+- Sitio web profesional, debe implementarse en línea con un dominio propio. 
 
-Para reconocer los lenguajes de descripción y programación que son claves para el desarollo de sitios web profesionales o prototipos avanzados de aplicaciones web, trabajaremos con un "editor de código fuente" (puede ser [Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/)).
+- Prototipo avanzado de aplicación web, debe implementarse en línea con dominio ajeno y acceso restringido con clave.
 
-El "editor de código fuente" nos dará indicaciones para poder escribir nuestro "código fuente" con:
+Antes de seguir, conviene leer: 
 
-- **HTML (HyperText Markup Language)**. Lenguaje estándar que describe la estructura de las páginas web (qué es lo que contiene la página). HTML5 es la versión más reciente de este lenguaje. El bloque constructivo más básico del HTML es el elemento. Cada elemento de HTML se escribe, generalmente, entre etiquetas: `<etiqueta>contenido</etiqueta>` → Podemos complementar esta breve introducción a HTML con una revisión de la página: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics
+- [Configurar GitHub Pages para usar dominios.cl](https://ggerena.medium.com/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
 
-- **CSS (Cascading Style Sheets)**. Lenguaje estándar que describe la presentación de las páginas web (cómo se muestra lo que contiene la página). CSS3 es la versión más reciente de este lenguaje. Su unidad más básica es la regla. Cada regla se inicia con un selector, seguido de paréntesis de llave `{…}`. Tal paréntesis contiene un bloque de declaraciones. En tal bloque, cada declaración se separa de otra mediante punto y coma `;`. Una declaración se compone del par `propiedad: valor`. Con todo lo dicho, una regla se escribirá, generalmente, de la siguiente manera: `selector{ propiedad: valor; }`  →  Podemos complementar esta breve introducción a CSS con una revisión de la página: https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics (no es necesario realizar el ejercicio que allí se propone).
+- [Reglamentación para el funcionamiento del Registro de Nombres del Dominio .CL](https://www.nic.cl/normativa/reglamentacion.html)
 
-- **JS (JavaScript)**. Lenguaje de programación que controla el comportamiento de las páginas web (qué hace la página). Con JS se pueden escribir secuencias de instrucciones con las que una computadora realizará una tarea determinada. Su estructura puede variar dependiendo de la lógica de cada instrucción, la [versión](https://www.w3schools.com/js/js_versions.asp) en uso, la *library* en la que nos apoyemos, o el *framework* de programación en el que se basa el trabajo; podemos imaginar que una *library* como una selección de ingredientes listos para poder preparar determinado tipo de comida, mientras que el *framework* te permite preparar un banquete si es que ya tienes suficiente experiencia en la cocina → Podemos complementar esta breve introducción a JS con una revisión de la página: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+Y conviene ver parte de estos videos: 
 
-Los lenguajes de descripción pueden dominarse en un menor tiempo que los lenguajes de programación; HTML puede dominarse tan pronto se memorizan [los elementos HTML](https://developer.mozilla.org/es/docs/Web/HTML/Element) y sus [atributos](https://developer.mozilla.org/es/docs/Web/HTML/Attributes); CSS podría exigir algo más que HTML, porque implica memorizar propiedades, valores y sus unidades, además de [los selectores](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Selectors) (para seleccionar elementos del HTML por tipo, atributo, identidad, clase, pseudoclase y un largo etcétera). 
+- [Hosteando tu sitio en Github Pages](https://www.youtube.com/watch?v=wyRfN5oLzx4&t=155s)
 
-Pero JavaScript, y la programación en general, puede tomarnos mucho más tiempo; una cosa es escribir descriptores y otra es estructurar instrucciones ajustadas a circunstancias y objetivos:
+- [Hosting gratuito con GitHub Pages y dominio personalizado](https://www.youtube.com/watch?v=nbUR1jzVI5g&t=328s)
 
-![meme](https://user-images.githubusercontent.com/7999767/156002975-2dfbf580-f6e2-4bd8-8e40-7110457a4cb4.png)
+**El sitio web profesional o prototipo avanzado de aplicación web puede ser un autoencargo o un encargo. Generalmente el autoencargo es un portafolio de diseño, y el encargo atiende las necesidades comunicacionales de una empresa**.
 
-- - - - - - - - - - - - - - 
+:rotating_light:	**RECOMENDACIÓN IMPORTANTE**  :rotating_light:	Pueden enfrentar el (auto)encargo de tienda en línea como vitrina de productos o como prototipo avanzado de aplicación web; para resolverlo como tienda en línea prefieran otra instancia, distinta de este trabajo. En otra instancia usted podrá explorar y aprovechar las herramientas que apoyan a éstas tiendas con sistemas de catálogo, transacción, distribución, etc.
 
-### Práctica
+- - - - - - - - - - 
 
-Para reconocer los lenguajes mencionados más arriba, podemos aprovechar los documentos contenidos en esta carpeta, comenzando con [index.html](https://github.com/profesorfaco/dno037-2022/blob/main/clase-01/index.html):
+#### Ejercicio
 
-Allí podemos ver la estructura típica de toda página HTML: 
+Sólo tendrá que usar el **`README.md` de un repositorio final. Allí debe publicar sus respuestas a las siguientes preguntas**: 
 
-```
-<!DOCTYPE html>
-<html lang="es">
-    <head>…</head>
-    <body>…</body>
-</html>
-```
+- **¿Para qué es esta propuesta? → objetivo general** → describa, con una frase que comience con un verbo, el beneficio práctico que aportará el resultado de su trabajo.
 
-Dentro de la cabeza (`<head></head>`), podemos ver un vínculo a un [style.css](https://github.com/profesorfaco/dno037-2022/blob/main/clase-01/style.css) que revisaremos luego:
+- **¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio** → describa a 2 usuarias/os ubicadas/os en los extremos de lo menos probable y 1 en lo más probable. Para cada descripción considere los 4 cuadrantes de la [proto-persona](https://uxmag.com/articles/using-proto-personas-for-executive-alignment) y parte de estos [*templates* de persona y escenario](https://github.com/profesorfaco/dno037-2022/blob/main/clase-14/fragmento-sazerac-book.pdf).
 
-```
-<link href="style.css" rel="stylesheet" />
-```
+- **¿Qué existe que es similar a la propuesta? → antecedentes** → seleccione y describa 6 sitios o aplicaciones web. Se recomienda buscarlos en https://www.awwwards.com/websites/bootstrap/, https://www.instagram.com/webuistylist/ y https://www.instagram.com/web.inspirations/. Se recomienda replicar la [ficha de clasificación de antecedentes de DSUC (p.80)](http://www.dsuc.cl/pdf/Creando-valor-a-traves-del-Diseno-de-Servicios-DSUC.pdf) para presentarlos.
 
-En las líneas finales del `index.html`, dentro de unas etiquetas de script (`<script></script>`), podemos ver una [variable de JavaScript](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Variables#%C2%BFqu%C3%A9_es_una_variable); esta variable se llama `palabras` y contiene un arreglo con 8 cadenas de caracteres entre comillas. 
+- **¿Qué existe que puede inspirar la propuesta? → referentes** → prepare un moodboard con elementos visuales, distintos de sitios y aplicaciones web, que puedan aportar novedad a su diseño. Ej: https://create.vista.com/es/templates/mood-board/, https://www.canva.com/es_mx/crear/mood-boards/, https://www.freepik.com/blog/es/mood-boards-consejos-trucos-crearlos/, https://www.adobe.com/es/express/create/mood-board
 
-```
-var palabras = ["siguiente", "repüyen", "seguente", "suivant", "next", "Nächster", "次の", "다음의"];
-```
+Para sacarle provecho al **uso de `README.md`**, apóyense en:
 
-Cada cadena de caracteres, contenida entre comillas, tiene una posición dentro del arreglo. Las posiciones se identifican con un número, partiendo a la izquierda con el 0. Considerando lo recién dicho, `palabras[0]` refiere a `siguiente` y `palabras[7]` refiere a `다음의` 
+- https://devhints.io/markdown
 
-El contenido de la variable se aprovecha para programar algo sencillo, a través de [p5.js](https://p5js.org/es/get-started/): una bibliteca de JS que reinterpreta Processing para la Web. Según la analogía de más arriba, esta es como "una selección de ingredientes listos para poder preparar determinado tipo de comida", que podemos encontrar en https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Para continuar reconociendo los lenguajes mencionados más arriba, y seguir aprovechando los documentos contenidos en esta carpeta, pasemos a [page.html](https://github.com/profesorfaco/dno037-2022/blob/main/clase-01/page.html), donde hay mucho más líneas de código contenidas entre etiquetas de script (`<script></script>`).
+- https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-**Llegado a este punto, es necesario que descarguen lo contenido en la carpeta de esta clase, y hagan algunos ajustes para cumplir con la primera parte del ejercicio; el ejercicio se completa cuando cada estudiante publica, [con GitHub Pages](https://docs.github.com/es/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), [su versión ajustada de un sitio web](https://profesorfaco.github.io/dno037-2022/clase-01).**
 
-El ejercicio completo puede ser evaluado con:
-
-- **0 punto** → no logrado.
-
-- **1 punto** → logrado.
-
-- **2 puntos** → logrado, con aporte descatado.
-
-El ejercicio incompleto es evaluado con 0 punto.
 
 - - - - - - - 
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2022/tree/main/clase-02)
+###### [← CLASE ANTERIOR](https://github.com/profesorfaco/dno037-2022/tree/main/clase-13) — [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno037-2022/tree/main/clase-15)
