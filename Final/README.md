@@ -14,10 +14,10 @@
 - Cuarto: Está buscando un cuadro que la represente para ponerlo en su living
 
  **Extremo 2:**
-- Primero:
-- Segundo:
-- Tercero:
-- Cuarto: 
+- Primero: Diego, 28 años y tiene como hobby dibujar.
+- Segundo: Lleva 3 años trabajando como kinesiologo en un hospital y tiene poco tiempo por los turnos.
+- Tercero: Intenta distraese lo más posible cuando esta en su casa.
+- Cuarto: Al tener poco tiempo, quiere replicar o inspirarse en un cuadro con sus lapices y no necesariamente crear algo desde cero.
 ## ANTECEDENTES
 
 #### ANTECEDENTE 1
