@@ -2,10 +2,10 @@
 - Poder llevar el trabajo de una artista a más público con un catalogo web.
 ## Para quién es
  **Extremo 1:**
-- Primero:
-- Segundo:
-- Tercero:
-- Cuarto:
+- Primero: Javiera, de 16 años y busca un fondo de pantalla.
+- Segundo: Está en educación media y le gustan las humanidades.
+- Tercero: Le gusta mostrar los temas que le atraen y sube de manera constante historias a Instagram.
+- Cuarto: Quiere tener un Fondo de pantalla llamativo para usarlo por un tiempo.
 
  **Promedio:**
 - Primero:
