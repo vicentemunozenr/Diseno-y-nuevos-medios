@@ -3,8 +3,7 @@
 #### ANTECEDENTE 1
 
 - **Nombre:** Art Gallery
-<img https://user-images.githubusercontent.com/101121746/172757814-88ba8770-8b82-47a6-b5a6-ff01fc589efe.png>
-
+- ![image](https://user-images.githubusercontent.com/101121746/172757864-b3e0ad6e-e9f1-4f96-9e30-1a24d9aff04a.png)
 - **Qué:** Sitio de arte que muestra distintos páginas que sirven para desplegar las distintas opciones que puede ofrecer el artista. 
 
 - **Fuente:** https://demo.curlythemes.com/art-gallery-wp/
