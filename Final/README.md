@@ -1,12 +1,21 @@
 ## Para qué es 
 - Poder llevar el trabajo de una artista a más público con un catalogo web.
 ## Para quién es
-# Extremo 1:
-- 
+**Extremo 1:**
+Cuadrante 1: 
+Cuadrante 2: 
+Cuadrante 3: 
+Cuadrante 4: 
 **Promedio:**
-- 
+Cuadrante 1: 
+Cuadrante 2: 
+- Cuadrante 3: 
+- Cuadrante 4: 
 **Extremo 2:**
-- 
+- Cuadrante 1: 
+- Cuadrante 2: 
+- Cuadrante 3: 
+- Cuadrante 4: 
 ## ANTECEDENTES
 
 #### ANTECEDENTE 1
