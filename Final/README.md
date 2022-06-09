@@ -3,6 +3,7 @@
 #### ANTECEDENTE 1
 
 - **Nombre:** Art Gallery
+![image](https://user-images.githubusercontent.com/101121746/172757478-c81279c0-b705-437c-a1fb-3d5585edba8b.png)
 
 
 - **Qué:** Sitio de arte que muestra distintos páginas que sirven para desplegar las distintas opciones que puede ofrecer el artista. 
