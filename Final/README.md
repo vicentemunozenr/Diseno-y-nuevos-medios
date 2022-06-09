@@ -8,10 +8,10 @@
 - Cuarto: Quiere tener un Fondo de pantalla llamativo para usarlo por un tiempo.
 
  **Promedio:**
-- Primero:
-- Segundo:
-- Tercero:
-- Cuarto:
+- Primero: Laura, de 33 años y Quiere decorar su hogar.
+- Segundo: Vive sola hace poco en un departamento y planea comprarlo a futuro.
+- Tercero: Le gusta que su espacio le pertenezca.
+- Cuarto: Está buscando un cuadro que la represente para ponerlo en su living
 
  **Extremo 2:**
 - Primero:
