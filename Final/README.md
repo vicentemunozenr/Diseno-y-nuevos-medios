@@ -19,6 +19,7 @@
 
 - **Nombre:** Kvell
 
+-![image](https://user-images.githubusercontent.com/101121746/172758048-de7b14e0-b5c7-4fbe-a035-317fd2e54fc1.png)
 
 - **Qué:** Catalogo de diseño de interiores.
 
@@ -32,6 +33,7 @@
 
 - **Nombre:** Violet Feredo
 
+- ![image](https://user-images.githubusercontent.com/101121746/172758161-96c7ce20-1799-403b-82cc-76e3fada22f6.png)
 
 - **Qué:** Tienda online de maquillaje que separa los productos en tres tipos.
 
