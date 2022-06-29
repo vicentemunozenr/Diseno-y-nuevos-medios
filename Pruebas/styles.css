@@ -11589,9 +11589,9 @@ footer.footer .social-link:hover {
     margin: 0;
   }
   .portfolio-item .caption {
-    transition: background-color 1s, -webkit-clip-path 0.25s ease-out;
-    transition: clip-path 0.25s ease-out, background-color 0.7s;
-    transition: clip-path 0.25s ease-out, background-color 0.7s, -webkit-clip-path 0.25s ease-out;
+    transition: background-color 0.5s, -webkit-clip-path 0.25s ease-out;
+    transition: clip-path 0.25s ease-out, background-color 0.5s;
+    transition: clip-path 0.25s ease-out, background-color 0.5s, -webkit-clip-path 0.25s ease-out;
     -webkit-clip-path: inset(0px);
             clip-path: inset(0px);
   }
