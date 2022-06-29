@@ -1,18 +1,18 @@
 const datos = [
     {
-        picsum: "img/expo1.jpg",
-        title: "Podría ser",
-        text: "orem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo dolor, iaculis vitae lectus ac, efficitur accumsan mauris.",
+        picsum: "img/expo1.webp",
+        title: "Casa Galería",
+        text: "Intervención de mi propio hogar, 2018",
     },
     {
-        picsum: "img/expo2.jpg",
-        title: "Acá también",
-        text: "Phasellus vel turpis tortor. Maecenas rhoncus est vel nibh molestie, vitae ultricies nisl dapibus. Curabitur luctus ante eu dolor consectetur, ut eleifend urna laoreet.",
+        picsum: "img/expo2.webp",
+        title: "Exposición de los estudiantes",
+        text: "En el 2017, los estudiantes tuvieron la oportunidad de colar sus trabajo de ese año en el colegio Epullay.",
     },
     {
-        picsum: "img/expo3.png",
-        title: "Estaría bien",
-        text: "Pellentesque sagittis maximus accumsan. Duis ultrices risus iaculis urna convallis tempus. In rutrum nunc et sodales sagittis.",
+        picsum: "img/expo3.webp",
+        title: "Centro Lyon",
+        text: "Luego del exito de la Casa Galería, en el 2019 fui invitada a formar parte del Centro Lyon",
     },
 ];
 datos.forEach((d, i) => {
